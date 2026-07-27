@@ -7,14 +7,14 @@ Building scalable and user-friendly web applications.
 
 ---
 
-## :male-technologist: About Me
+## 🧑‍💻: About Me
 
 
-:briefcase: Frontend Developer with 5+ years of experience.
-:rocket: Worked on enterprise applications for **Intuit** and **Virtusa**.
-:atom_symbol: React.js | Next.js | TypeScript | JavaScript | AI.
-:dart: Looking for Frontend Engineer opportunities.
-:seedling: Currently learning Advanced Next.js & System Design.
+:briefcase: Frontend Developer with 5+ years of experience. <br>
+:rocket: Worked on enterprise applications for **Intuit** and **Virtusa**. <br>
+:atom_symbol: React.js | Next.js | TypeScript | JavaScript | AI. <br>
+:dart: Looking for Frontend Engineer opportunities. <br>
+:seedling: Currently learning Advanced Next.js & System Design. <br>
 
 ---
 
