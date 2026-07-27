@@ -31,7 +31,7 @@ Building scalable and user-friendly web applications.
 ## :globe_with_meridians: Connect with me
 
 
-:briefcase: LinkedIn: https://www.linkedin.com/in/niranjan-m-79440b120
+:briefcase: LinkedIn: https://www.linkedin.com/in/niranjan-m-79440b120 <br>
 :e-mail: Email: niranjanniru360@gmail.com
 
 
